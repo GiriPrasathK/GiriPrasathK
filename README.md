@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GiriPrasathK.Engineer in progress.Love to code assembly language program.
+- 👋 Hi, I’m @GiriPrasathK.Engineer in progress.
 
 <!---
 GiriPrasathK/GiriPrasathK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
